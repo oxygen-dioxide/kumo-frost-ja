@@ -1,0 +1,4 @@
+name=KUMO -FROST-
+image=00. Images\icon.bmp
+author=Kyasurin
+sample=sample.wav

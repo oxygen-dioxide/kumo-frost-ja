@@ -1,0 +1,46 @@
+【 KUMO -FROST- 】
+by Kyasurin
+
+https://kyasurln.carrd.co/
+
+【 Voicebank Terms of Use 】
+
+Attribution
+When publishing work using this voicebank, you are required to state the name of this voicebank.
+You are required to state the name of this voicebank's author.
+When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
+
+Usage Content
+You are free to create sexual content.
+You are free to create violent content.
+Do not create political content.
+You are free to create religious content.
+The following types of content are unconditionally prohibited:
+- Criminal or illegal content
+- Explicit underage sexual content
+- Bigotry and hateful content
+
+Character and Artwork
+Published work using the voicebank may or may not include visual depictions of the voicebank character.
+Visual depictions should be clearly recognizable as the voicebank character. This voicebank cannot be used in conjunction with artwork of other characters.
+Existing artwork of the voicebank character cannot be used without prior permission from the individual artists. However, when publishing work featuring the voicebank, you may freely use the file "KumoFrostFull.png".
+
+Commercial Use
+You cannot use this voicebank commercially. All usage of this voicebank must be strictly non-commercial.
+You cannot use this voicebank or any included assets in projects involving non-fungible tokens (NFTs) or cryptocurrency.
+
+Editing
+You cannot edit this voicebank's audio files.
+You are free to edit any configuration files, such as oto.ini or FRQ files.
+You cannot use this voicebank in any singing synthesizer other than UTAU.
+The source audio of this voicebank can only be used in permitted singing synthesizers. You cannot use it in any other way, such as for music production or video production.
+
+Redistribution
+Before this voicebank is discontinued, you may only redistribute this voicebank in its entirety, without any changes, with correct attribution of the voicebank name and author.
+After this voicebank is discontinued, you cannot redistribute it.
+You are free to share rendered singing vocals created with this voicebank.
+
+Disclaimer
+Kyasurin holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
+Kyasurin holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
+These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
